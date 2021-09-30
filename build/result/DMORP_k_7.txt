@@ -1,0 +1,8 @@
+3070    604.219744
+dtype: float64
+3070    3502.160804
+dtype: float64
+3070    5441
+dtype: int64
+3070    0.553612
+dtype: float64

@@ -1,0 +1,3 @@
+dadisi/libdadisi_0.9_la-crush.lo: ../dadisi/crush.cpp ../dadisi/crush.h
+
+../dadisi/crush.h:

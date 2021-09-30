@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" href="$_dist_nearest_neighbour_8h.html" title="DistNearestNeighbour.h" alt="" coords="385,84,577,111"/>
+<area shape="rect" href="$_dist_share_8h.html" title="DistShare.h" alt="" coords="296,161,400,188"/>
+<area shape="rect" href="$_dist_nearest_neighbour_8cpp.html" title="DistNearestNeighbour.cpp" alt="" coords="496,161,707,188"/>
+<area shape="rect" href="$_dist_round_robin_8h.html" title="DistRoundRobin.h" alt="" coords="660,84,809,111"/>
+<area shape="rect" href="$_improved_map_8cpp.html" title="ImprovedMap.cpp" alt="" coords="833,84,985,111"/>
+<area shape="rect" href="$_distributor_8cpp.html" title="Distributor.cpp" alt="" coords="327,316,452,343"/>
+<area shape="rect" href="$_dist_fast_redundant_share_8h.html" title="DistFastRedundantShare.h" alt="" coords="13,239,227,265"/>
+<area shape="rect" href="$_dist_share_8cpp.html" title="DistShare.cpp" alt="" coords="301,239,421,265"/>
+<area shape="rect" href="$_dist_fast_redundant_share_8cpp.html" title="DistFastRedundantShare.cpp" alt="" coords="5,316,235,343"/>
+<area shape="rect" href="$_dist_round_robin_8cpp.html" title="DistRoundRobin.cpp" alt="" coords="781,161,947,188"/>
+</map>

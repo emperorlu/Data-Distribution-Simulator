@@ -1,0 +1,14 @@
+dadisi/libdadisi_0.9_la-DistNearestNeighbour.lo: \
+ ../dadisi/DistNearestNeighbour.cpp ../dadisi/DistNearestNeighbour.h \
+ ../dadisi/Distributor.h ../dadisi/Disk.h ../dadisi/helper.h \
+ ../dadisi/ImprovedMap.h
+
+../dadisi/DistNearestNeighbour.h:
+
+../dadisi/Distributor.h:
+
+../dadisi/Disk.h:
+
+../dadisi/helper.h:
+
+../dadisi/ImprovedMap.h:

@@ -1,0 +1,4 @@
+dadisi/libdadisi_0.9_la-helper.lo: ../dadisi/helper.cpp \
+ ../dadisi/helper.h
+
+../dadisi/helper.h:

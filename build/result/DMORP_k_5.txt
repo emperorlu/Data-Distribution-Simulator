@@ -1,0 +1,8 @@
+2175    436.227643
+dtype: float64
+2175    2501.633166
+dtype: float64
+2175    3858
+dtype: int64
+2175    0.542193
+dtype: float64

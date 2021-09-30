@@ -1,0 +1,72 @@
+Dadisi - Data Distribution Simulator (v0.9)
+*******************************************
+
+1. Description
+==============
+
+Dadisi is an API to create and test data distribution policies in a (simulated) 
+storage environment. With it you can create a virtual storage architecture and 
+fill it with "data" that will be placed according to your description. This can 
+be useful to evaluate properties like load balancing, distribution fairness, 
+memory consumption or efficiency among others, and compare several strategies 
+according to these parameters. Note however that the framework does not 
+simulate the internal mechanisms of storage devices or interconnection networks, 
+therefore any timing measure should be taken only as an indication of the 
+performance of the strategy.
+
+
+2. Requirements
+===============
+
+Dadisi requires a working g++ compiler (4.1 or greater, earlier versions may work 
+but haven't been tested). Additionally, you will also need the following 
+libraries:
+
+    * libxerces-c >= 3.1.1 (and the C++ bindings)
+    * libsqlite3  >= 3.7.3 (and the C++ bindings)
+    * libgmp3     >= 4.3.2 (and the C++ bindings)
+    * libboost    >= 1.39.0
+    * libgcrypt11 >= 1.4.5
+
+
+3. Installation
+===============
+
+    ./configure
+    make
+    make install
+
+For more details see the file 'INSTALL'
+
+
+4. Documentation
+================
+
+Any distribution policy must inherit from the [Distributor] base class and 
+provide specific implementations for all methods marked [pure virtual]. Please 
+check [doc/html/index.html] for details on the Distributor class and the 
+methods that must be implemented.
+
+Each policy must have a constructor receiving an [int] and a [char array], 
+which are used to pass parameters from the command line to the policy. 
+Additionally, each strategy must implement a constructor receiving a 
+[DOMElement] argument which is used to load strategy configuration from an 
+XML-File (simply leave the constructor empty if you don't need this).
+
+Once the distribution policy is implemented, it is necessary to add it to the 
+[Distributor::createDistributor] method, so that it can be instantiated and 
+used.
+
+A very simple distribution policy can be seen in the [DistRoundRobin] class.
+We have also included several other implementations that can be checked to get 
+a better understanding of the API. They can be found in the [dadisi] directory,
+under the name convention [Dist*.h].
+
+You can also find some examples on how to use the API to exercise the 
+distribution policies in the [perf_eval] directory.
+
+
+5. People
+=========
+Original author: Sascha Effert
+Contributors: Alberto Miranda and Yangwook Kang

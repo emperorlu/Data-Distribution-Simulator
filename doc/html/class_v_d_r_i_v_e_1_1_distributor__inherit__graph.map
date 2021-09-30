@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" href="$class_v_d_r_i_v_e_1_1_dist_c_r_u_s_h.html" title="VDRIVE::DistCRUSH" alt="" coords="259,5,416,32"/>
+<area shape="rect" href="$class_v_d_r_i_v_e_1_1_dist_fast_redundant_share.html" title="VDRIVE::DistFastRedundantShare" alt="" coords="208,56,467,83"/>
+<area shape="rect" href="$class_v_d_r_i_v_e_1_1_dist_nearest_neighbour.html" title="VDRIVE::DistNearestNeighbour" alt="" coords="219,107,456,133"/>
+<area shape="rect" href="$class_v_d_r_i_v_e_1_1_dist_redundant_share.html" title="VDRIVE::DistRedundantShare" alt="" coords="223,157,452,184"/>
+<area shape="rect" href="$class_v_d_r_i_v_e_1_1_dist_round_robin.html" title="VDRIVE::DistRoundRobin" alt="" coords="240,208,435,235"/>
+<area shape="rect" href="$class_v_d_r_i_v_e_1_1_dist_r_u_s_hp.html" title="VDRIVE::DistRUSHp" alt="" coords="260,259,415,285"/>
+<area shape="rect" href="$class_v_d_r_i_v_e_1_1_dist_share.html" title="VDRIVE::DistShare" alt="" coords="263,309,412,336"/>
+</map>

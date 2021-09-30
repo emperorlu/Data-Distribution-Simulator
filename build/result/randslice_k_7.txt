@@ -1,0 +1,8 @@
+3484    60.481766
+dtype: float64
+3484    3500.080402
+dtype: float64
+3484    3685
+dtype: int64
+3484    0.052833
+dtype: float64

@@ -1,0 +1,4 @@
+CPPDistTest called with following params: -dt RandSlice -Dn 400 -kn 3 -st -en 1000000 -Mof Dmem_{RandSlice}_400.memdata 
+Creating Disks
+Creating new Distributor
+Will set configuration,

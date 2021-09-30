@@ -1,0 +1,8 @@
+dadisi/libdadisi_0.9_la-RSDisk.lo: ../dadisi/RSDisk.cpp \
+ ../dadisi/RSDisk.h ../dadisi/Disk.h ../dadisi/helper.h
+
+../dadisi/RSDisk.h:
+
+../dadisi/Disk.h:
+
+../dadisi/helper.h:

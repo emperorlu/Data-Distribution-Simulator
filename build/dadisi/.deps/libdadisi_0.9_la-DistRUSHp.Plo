@@ -1,0 +1,17 @@
+dadisi/libdadisi_0.9_la-DistRUSHp.lo: ../dadisi/DistRUSHp.cpp \
+ ../dadisi/DistRUSHp.h ../dadisi/Distributor.h ../dadisi/Disk.h \
+ ../dadisi/helper.h ../dadisi/Prime.h ../dadisi/types.h ../dadisi/hash.h
+
+../dadisi/DistRUSHp.h:
+
+../dadisi/Distributor.h:
+
+../dadisi/Disk.h:
+
+../dadisi/helper.h:
+
+../dadisi/Prime.h:
+
+../dadisi/types.h:
+
+../dadisi/hash.h:

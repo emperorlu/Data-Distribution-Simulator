@@ -1,0 +1,8 @@
+4548    66.015395
+dtype: float64
+4548    4499.758794
+dtype: float64
+4548    4671
+dtype: int64
+4548    0.038056
+dtype: float64

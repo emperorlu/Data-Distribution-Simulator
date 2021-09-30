@@ -1,0 +1,8 @@
+145    29.650564
+dtype: float64
+145    150.025126
+dtype: float64
+145    256
+dtype: int64
+145    0.706381
+dtype: float64

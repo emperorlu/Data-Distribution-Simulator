@@ -1,0 +1,8 @@
+2526    48.776267
+dtype: float64
+2526    2499.869347
+dtype: float64
+2526    2636
+dtype: int64
+2526    0.054455
+dtype: float64

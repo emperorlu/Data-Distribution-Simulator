@@ -1,0 +1,48 @@
+Name:	CPPDistTest
+Umask:	0022
+State:	R (running)
+Tgid:	716915
+Ngid:	0
+Pid:	716915
+PPid:	716850
+TracerPid:	0
+Uid:	0	0	0	0
+Gid:	0	0	0	0
+FDSize:	256
+Groups:	0 
+VmPeak:	 4175872 kB
+VmSize:	 4175872 kB
+VmLck:	       0 kB
+VmPin:	       0 kB
+VmHWM:	 4141892 kB
+VmRSS:	 4141892 kB
+RssAnon:	 4138992 kB
+RssFile:	    2900 kB
+RssShmem:	       0 kB
+VmData:	 4138788 kB
+VmStk:	     132 kB
+VmExe:	      44 kB
+VmLib:	    9808 kB
+VmPTE:	    8176 kB
+VmSwap:	       0 kB
+Threads:	1
+SigQ:	0/224716
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	0000000000000000
+SigIgn:	0000000000000000
+SigCgt:	0000000180000000
+CapInh:	0000000000000000
+CapPrm:	0000001fffffffff
+CapEff:	0000001fffffffff
+CapBnd:	0000001fffffffff
+CapAmb:	0000000000000000
+NoNewPrivs:	0
+Seccomp:	0
+Speculation_Store_Bypass:	vulnerable
+Cpus_allowed:	fff
+Cpus_allowed_list:	0-11
+Mems_allowed:	00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000003
+Mems_allowed_list:	0-1
+voluntary_ctxt_switches:	0
+nonvoluntary_ctxt_switches:	14

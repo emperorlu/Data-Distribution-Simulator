@@ -1,0 +1,8 @@
+15007    115.206068
+dtype: float64
+15007    14999.964824
+dtype: float64
+15007    15313
+dtype: int64
+15007    0.020869
+dtype: float64

@@ -1,0 +1,8 @@
+100000    0.0
+dtype: float64
+100000    100000.0
+dtype: float64
+100000    100000
+dtype: int64
+100000    0.0
+dtype: float64

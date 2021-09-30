@@ -1,0 +1,15 @@
+dadisi/libdadisi_0.9_la-Builder.lo: ../dadisi/Builder.cpp \
+ ../dadisi/Builder.h ../dadisi/crush.h ../dadisi/hash.h \
+ ../dadisi/Distributor.h ../dadisi/Disk.h ../dadisi/helper.h
+
+../dadisi/Builder.h:
+
+../dadisi/crush.h:
+
+../dadisi/hash.h:
+
+../dadisi/Distributor.h:
+
+../dadisi/Disk.h:
+
+../dadisi/helper.h:

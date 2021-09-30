@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" href="$structcrush__map.html" title="crush_map" alt="" coords="195,199,293,225"/>
+<area shape="rect" href="$structcrush__rule.html" title="crush_rule" alt="" coords="103,103,196,129"/>
+<area shape="rect" href="$structcrush__rule__step.html" title="crush_rule_step" alt="" coords="5,7,136,33"/>
+<area shape="rect" href="$structcrush__rule__mask.html" title="crush_rule_mask" alt="" coords="160,7,299,33"/>
+<area shape="rect" href="$structcrush__bucket.html" title="crush_bucket" alt="" coords="220,103,335,129"/>
+</map>

@@ -1,0 +1,16 @@
+dadisi/libdadisi_0.9_la-DistRandSlice.lo: ../dadisi/DistRandSlice.cpp \
+ ../dadisi/DistRandSlice.h ../dadisi/Distributor.h ../dadisi/Disk.h \
+ ../dadisi/helper.h ../dadisi/flat_segment_tree.hpp \
+ ../dadisi/flat_segment_tree_node.hpp
+
+../dadisi/DistRandSlice.h:
+
+../dadisi/Distributor.h:
+
+../dadisi/Disk.h:
+
+../dadisi/helper.h:
+
+../dadisi/flat_segment_tree.hpp:
+
+../dadisi/flat_segment_tree_node.hpp:

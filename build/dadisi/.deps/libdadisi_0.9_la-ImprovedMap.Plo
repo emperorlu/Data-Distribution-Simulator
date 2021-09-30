@@ -1,0 +1,4 @@
+dadisi/libdadisi_0.9_la-ImprovedMap.lo: ../dadisi/ImprovedMap.cpp \
+ ../dadisi/ImprovedMap.h
+
+../dadisi/ImprovedMap.h:

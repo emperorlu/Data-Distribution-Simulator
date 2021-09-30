@@ -1,0 +1,22 @@
+dadisi/libdadisi_0.9_la-DistCRUSH.lo: ../dadisi/DistCRUSH.cpp \
+ ../dadisi/DistCRUSH.h ../dadisi/Distributor.h ../dadisi/Disk.h \
+ ../dadisi/helper.h ../dadisi/crushwrapper.h ../dadisi/crush.h \
+ ../dadisi/hash.h ../dadisi/mapper.h ../dadisi/Builder.h
+
+../dadisi/DistCRUSH.h:
+
+../dadisi/Distributor.h:
+
+../dadisi/Disk.h:
+
+../dadisi/helper.h:
+
+../dadisi/crushwrapper.h:
+
+../dadisi/crush.h:
+
+../dadisi/hash.h:
+
+../dadisi/mapper.h:
+
+../dadisi/Builder.h:

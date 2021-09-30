@@ -1,0 +1,8 @@
+4470    68.878222
+dtype: float64
+4470    4500.150754
+dtype: float64
+4470    4707
+dtype: int64
+4470    0.045965
+dtype: float64

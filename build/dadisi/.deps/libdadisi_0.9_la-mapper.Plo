@@ -1,0 +1,13 @@
+dadisi/libdadisi_0.9_la-mapper.lo: ../dadisi/mapper.cpp ../dadisi/crush.h \
+ ../dadisi/hash.h ../dadisi/Distributor.h ../dadisi/Disk.h \
+ ../dadisi/helper.h
+
+../dadisi/crush.h:
+
+../dadisi/hash.h:
+
+../dadisi/Distributor.h:
+
+../dadisi/Disk.h:
+
+../dadisi/helper.h:

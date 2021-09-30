@@ -1,0 +1,77 @@
+CPPDistTest called with following params: -dt RandSlice -Dn -kn 3 -st -en 1000000 -Mof Dmem_{RandSlice}_.memdata 
+-Dn has to be followed by a number
+
+Usage:
+    cppdistributorstester [options]
+This Programm runs some Distribution test and exits
+Options:
+  -dt <distType>   use given Distributor
+  -dif <distFile>  read a saved Distributor from file
+  -dof <distFile>  write Distributor to given File
+  -Dn N            number of Disks, that shall be used
+  -Dhet            make heterogeneous Disks (default are homogeneous)
+  -Dif <diskFile>  read Disks from from File
+  -DiSQLite        disk file to read is an SQLite DB (not XML)
+  -Dof <diskFile>  write Disks to File (Only configuration)
+  -DoSQLite        disk file to write is an SQLite DB (not XML)
+  -Dp              print Disks after creation/loading to stdout
+  -kn N            number of copies to be distributed
+  -of <outFile>    write result to given File
+  -en N            distribute given number of extents
+  -fen N           number of first Extent
+  -Tn N            Number of Threads distributing the Extents
+  -Tof <outFile>   Send disk usage per Thread to given file (debug)
+  -bm baseMessage  Set the baseMessage to be used for Hashing
+  -Mof <outFile>   cat /proc/PID/status to the given file after creating the
+                   distributor and before placing extents.
+  -st              measure time to place single extents.
+  -icrypt          use the given internal Hash algorithm.
+                   * SHA1: 1
+                   * LC: 2
+                   * Rand: 3
+                   * MT: 4
+  -gcrypt N        use the given gcrypt hash algorithm instead of build in SHA1
+                   GCrypt knows (at least) the following Hash algorithms:
+                   * SHA1: 2
+                   * SHA224: 11
+                   * SHA256: 8
+                   * SHA284: 9
+                   * SHA512: 10
+                   * MD4: 301
+                   * MD5: 1
+                   * TIGER: 6
+                   * WHIRLPOOL: 305
+  -dp              An Parameters following after this param will be given to
+                   the Distributor
+
+I know the following distTypes and special params (after -dp):
+  * FastRedundantShare
+  * RedundantShare
+    -decID         Even sized disks will be sorted by decreasing id (else by increasing)
+  * Share
+    -sf N          Constant for the Stretchfactor used for each Disk
+    -ssf N         Use exactly this Stretchfactor
+    -sc N          Number of copies of each disk to be placed in Share
+    -nf N          delegation to each NearestNeighbour
+    -nc N          delegation to each NearestNeighbour
+    -cnn           copies are created by NearestNeighbour, not by Share
+  * NearestNeighbour
+    -nf N          Number of copies of each disk to be placed
+                   (N*log(#Disks) will be placed)
+    -nc N          Use exactly this number of copies
+    -cut N         Make for each N Blocks of each Disk a virtual Disk
+                   (more copies of the Disk are placed.)
+  * RoundRobin
+    -hash          hash all Positions before placing
+    -im            use an ImprovedMap to place Elements
+  * RUSHp, RUSHr, RUSHt
+    -copies        a number of replicas
+  * CRUSH
+    -copies        a number of replicas
+    -layer         define a crush map. Each layer is 'name buckettype'
+                   (e.g. default map: '-layer domain 1 root 4')                   * UNIFORM : 1
+                   * LIST: 2
+                   * TREE: 3
+                   * STRAW: 4
+    -ndom          a size of failure domains, default value is 10
+  * RandSlice

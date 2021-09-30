@@ -1,0 +1,8 @@
+60069    281.330618
+dtype: float64
+60069    59982.75
+dtype: float64
+60069    60330
+dtype: int64
+60069    0.005789
+dtype: float64

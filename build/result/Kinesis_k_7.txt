@@ -1,0 +1,8 @@
+42696    266.088707
+dtype: float64
+42696    42884.0
+dtype: float64
+42696    43274
+dtype: int64
+42696    0.009094
+dtype: float64

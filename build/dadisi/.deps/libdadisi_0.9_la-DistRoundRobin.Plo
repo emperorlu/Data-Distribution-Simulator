@@ -1,0 +1,13 @@
+dadisi/libdadisi_0.9_la-DistRoundRobin.lo: ../dadisi/DistRoundRobin.cpp \
+ ../dadisi/DistRoundRobin.h ../dadisi/Distributor.h ../dadisi/Disk.h \
+ ../dadisi/helper.h ../dadisi/ImprovedMap.h
+
+../dadisi/DistRoundRobin.h:
+
+../dadisi/Distributor.h:
+
+../dadisi/Disk.h:
+
+../dadisi/helper.h:
+
+../dadisi/ImprovedMap.h:

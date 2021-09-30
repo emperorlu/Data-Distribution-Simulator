@@ -1,0 +1,6 @@
+dadisi/libdadisi_0.9_la-Disk.lo: ../dadisi/Disk.cpp ../dadisi/Disk.h \
+ ../dadisi/helper.h
+
+../dadisi/Disk.h:
+
+../dadisi/helper.h:

@@ -1,0 +1,30 @@
+<map id="G" name="G">
+<area shape="rect" href="$_distributor_8h.html" title="Distributor.h" alt="" coords="884,84,993,111"/>
+<area shape="rect" href="$_disk_8cpp.html" title="Disk.cpp" alt="" coords="1283,84,1363,111"/>
+<area shape="rect" href="$_r_s_disk_8h.html" title="RSDisk.h" alt="" coords="1576,84,1659,111"/>
+<area shape="rect" href="$hash_8h.html" title="hash.h" alt="" coords="463,161,532,188"/>
+<area shape="rect" href="$_dist_c_r_u_s_h_8h.html" title="DistCRUSH.h" alt="" coords="173,316,285,343"/>
+<area shape="rect" href="$_distributor_8cpp.html" title="Distributor.cpp" alt="" coords="1200,393,1325,420"/>
+<area shape="rect" href="$test_8cpp.html" title="test.cpp" alt="" coords="5,316,83,343"/>
+<area shape="rect" href="$mapper_8h.html" title="mapper.h" alt="" coords="95,161,185,188"/>
+<area shape="rect" href="$_dist_redundant_share_8h.html" title="DistRedundantShare.h" alt="" coords="1525,161,1709,188"/>
+<area shape="rect" href="$_dist_share_8h.html" title="DistShare.h" alt="" coords="1476,239,1580,265"/>
+<area shape="rect" href="$_dist_nearest_neighbour_8h.html" title="DistNearestNeighbour.h" alt="" coords="1215,161,1407,188"/>
+<area shape="rect" href="$_dist_round_robin_8h.html" title="DistRoundRobin.h" alt="" coords="941,161,1091,188"/>
+<area shape="rect" href="$_dist_r_u_s_hp_8h.html" title="DistRUSHp.h" alt="" coords="808,161,917,188"/>
+<area shape="rect" href="$_prime_8h.html" title="Prime.h" alt="" coords="709,161,784,188"/>
+<area shape="rect" href="$_builder_8cpp.html" title="Builder.cpp" alt="" coords="271,239,372,265"/>
+<area shape="rect" href="$crushwrapper_8h.html" title="crushwrapper.h" alt="" coords="65,239,196,265"/>
+<area shape="rect" href="$hash_8cpp.html" title="hash.cpp" alt="" coords="405,316,491,343"/>
+<area shape="rect" href="$_dist_r_u_s_hp_8cpp.html" title="DistRUSHp.cpp" alt="" coords="697,239,825,265"/>
+<area shape="rect" href="$mapper_8cpp.html" title="mapper.cpp" alt="" coords="396,239,505,265"/>
+<area shape="rect" href="$_dist_c_r_u_s_h_8cpp.html" title="DistCRUSH.cpp" alt="" coords="119,393,247,420"/>
+<area shape="rect" href="$_dist_fast_redundant_share_8h.html" title="DistFastRedundantShare.h" alt="" coords="1655,316,1868,343"/>
+<area shape="rect" href="$_dist_redundant_share_8cpp.html" title="DistRedundantShare.cpp" alt="" coords="1705,239,1905,265"/>
+<area shape="rect" href="$_dist_fast_redundant_share_8cpp.html" title="DistFastRedundantShare.cpp" alt="" coords="1647,393,1876,420"/>
+<area shape="rect" href="$_dist_share_8cpp.html" title="DistShare.cpp" alt="" coords="1409,316,1529,343"/>
+<area shape="rect" href="$_dist_nearest_neighbour_8cpp.html" title="DistNearestNeighbour.cpp" alt="" coords="1191,239,1401,265"/>
+<area shape="rect" href="$_dist_round_robin_8cpp.html" title="DistRoundRobin.cpp" alt="" coords="900,239,1065,265"/>
+<area shape="rect" href="$_prime_8cpp.html" title="Prime.cpp" alt="" coords="580,239,673,265"/>
+<area shape="rect" href="$_r_s_disk_8cpp.html" title="RSDisk.cpp" alt="" coords="1733,161,1832,188"/>
+</map>

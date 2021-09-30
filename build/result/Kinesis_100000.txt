@@ -1,0 +1,8 @@
+1382    39.294539
+dtype: float64
+1382    1500.592965
+dtype: float64
+1382    1619
+dtype: int64
+1382    0.078907
+dtype: float64

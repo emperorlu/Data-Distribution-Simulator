@@ -1,0 +1,10 @@
+dadisi/libdadisi_0.9_la-Prime.lo: ../dadisi/Prime.cpp ../dadisi/Prime.h \
+ ../dadisi/Distributor.h ../dadisi/Disk.h ../dadisi/helper.h
+
+../dadisi/Prime.h:
+
+../dadisi/Distributor.h:
+
+../dadisi/Disk.h:
+
+../dadisi/helper.h:

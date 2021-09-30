@@ -1,0 +1,3 @@
+dadisi/libdadisi_0.9_la-SHA.lo: ../dadisi/SHA.cpp ../dadisi/SHA.h
+
+../dadisi/SHA.h:

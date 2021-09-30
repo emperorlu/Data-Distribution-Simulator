@@ -1,0 +1,8 @@
+3932    770.613381
+dtype: float64
+3932    4502.854271
+dtype: float64
+3932    6989
+dtype: int64
+3932    0.552127
+dtype: float64

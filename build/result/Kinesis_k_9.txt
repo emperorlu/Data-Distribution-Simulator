@@ -1,0 +1,8 @@
+33271    229.387033
+dtype: float64
+33271    33341.125
+dtype: float64
+33271    33638
+dtype: int64
+33271    0.008904
+dtype: float64

@@ -1,0 +1,8 @@
+510    20.417795
+dtype: float64
+510    499.949749
+dtype: float64
+510    549
+dtype: int64
+510    0.09811
+dtype: float64

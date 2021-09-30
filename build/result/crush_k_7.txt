@@ -1,0 +1,8 @@
+3544    58.643774
+dtype: float64
+3544    3499.778894
+dtype: float64
+3544    3642
+dtype: int64
+3544    0.040637
+dtype: float64

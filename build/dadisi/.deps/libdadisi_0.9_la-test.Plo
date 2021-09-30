@@ -1,0 +1,20 @@
+dadisi/libdadisi_0.9_la-test.lo: ../dadisi/test.cpp \
+ ../dadisi/Distributor.h ../dadisi/Disk.h ../dadisi/helper.h \
+ ../dadisi/crushwrapper.h ../dadisi/crush.h ../dadisi/hash.h \
+ ../dadisi/mapper.h ../dadisi/Builder.h
+
+../dadisi/Distributor.h:
+
+../dadisi/Disk.h:
+
+../dadisi/helper.h:
+
+../dadisi/crushwrapper.h:
+
+../dadisi/crush.h:
+
+../dadisi/hash.h:
+
+../dadisi/mapper.h:
+
+../dadisi/Builder.h:

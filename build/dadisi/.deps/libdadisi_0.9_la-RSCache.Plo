@@ -1,0 +1,4 @@
+dadisi/libdadisi_0.9_la-RSCache.lo: ../dadisi/RSCache.cpp \
+ ../dadisi/RSCache.h
+
+../dadisi/RSCache.h:

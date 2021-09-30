@@ -1,0 +1,41 @@
+\documentclass{article}
+\usepackage{epsfig}
+\pagestyle{empty}
+\begin{document}
+\[\frac{1}{\epsilon^2}\cdot \mbox{log}_2(n)\]
+\pagebreak
+
+\[P_{a,b,l}=\mbox{max}(0, \prod_{v=a}^{b-1}(1-l\cdot \check{c}_v)) \mbox{ for } a<b\]
+\pagebreak
+
+\[P_{a,b,l}=1 \mbox{ for } a=b\]
+\pagebreak
+
+\[r_{o,m,j,i}=P_{j,i,m}\cdot\mbox{min}(1,m\cdot\check{c}_i) \mbox{ for } m=o\]
+\pagebreak
+
+\[r_{o,m,j,i}=\sum_{v=j}^{i-m+o}P_{j,v,m}\cdot m\cdot\check{c}_v\cdot r_{o,m-1,v+1,i} \mbox{ for } o<m\]
+\pagebreak
+
+\[r2_{o,m,j,i}=P_{j,i,m}\cdot\mbox{min}(1,m\cdot\check{c}_i) \mbox{ for } m=o\]
+\pagebreak
+
+\[r2_{o,m,j,i}=\sum_{v=j}^{i-m+o-1}P_{j,v,m}\cdot m\cdot\check{c}_v\cdot r2_{o,m-1,v+1,i} \mbox{ for } o<l\]
+\pagebreak
+
+\[k_i = k\cdot\frac{c_i}{C_0}-(\sum_{o=1}^{k}r_{o,k,0,i}) \mbox{ for } o\neq l-1\]
+\pagebreak
+
+\[k_i = k\cdot\frac{c_i}{C_0}-(\sum_{o=1}^{k}r2_{o,k,0,i}) \mbox{ for } o=l-1\]
+\pagebreak
+
+\[c^* = \frac{\frac{k_i}{(l-1)\cdot r_{l,k,0,i-1}}\cdot C_{i+1}}{1-\frac{k_i}{(l-1)\cdot r_{l,k,0,i-1}}}\]
+\pagebreak
+
+\[h(x) = (a\cdot x + b) mod 2^{64}\]
+\pagebreak
+
+\[3*log(N)\]
+\pagebreak
+
+\end{document}

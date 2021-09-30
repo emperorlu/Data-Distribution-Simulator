@@ -1,0 +1,8 @@
+448    90.982361
+dtype: float64
+448    500.261307
+dtype: float64
+448    792
+dtype: int64
+448    0.583173
+dtype: float64

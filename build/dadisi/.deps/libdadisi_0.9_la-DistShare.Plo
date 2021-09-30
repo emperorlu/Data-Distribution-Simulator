@@ -1,0 +1,21 @@
+dadisi/libdadisi_0.9_la-DistShare.lo: ../dadisi/DistShare.cpp \
+ ../dadisi/DistShare.h ../dadisi/Distributor.h ../dadisi/Disk.h \
+ ../dadisi/helper.h ../dadisi/DistNearestNeighbour.h \
+ ../dadisi/ImprovedMap.h ../dadisi/DistShare_pThreads.h \
+ ../dadisi/ShareDisk.h
+
+../dadisi/DistShare.h:
+
+../dadisi/Distributor.h:
+
+../dadisi/Disk.h:
+
+../dadisi/helper.h:
+
+../dadisi/DistNearestNeighbour.h:
+
+../dadisi/ImprovedMap.h:
+
+../dadisi/DistShare_pThreads.h:
+
+../dadisi/ShareDisk.h:

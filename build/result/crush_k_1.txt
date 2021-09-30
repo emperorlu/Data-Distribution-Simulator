@@ -1,0 +1,8 @@
+487    20.534542
+dtype: float64
+487    500.065327
+dtype: float64
+487    558
+dtype: int64
+487    0.115854
+dtype: float64

@@ -1,0 +1,21 @@
+<map id="G" name="G">
+<area shape="rect" href="$_distributor_8h.html" title="Distributor.h" alt="" coords="1721,316,1831,343"/>
+<area shape="rect" href="$_dist_nearest_neighbour_8h.html" title="DistNearestNeighbour.h" alt="" coords="688,239,880,265"/>
+<area shape="rect" href="$_dist_redundant_share_8h.html" title="DistRedundantShare.h" alt="" coords="277,239,461,265"/>
+<area shape="rect" href="$_dist_fast_redundant_share_8h.html" title="DistFastRedundantShare.h" alt="" coords="377,84,591,111"/>
+<area shape="rect" href="$_dist_share_8h.html" title="DistShare.h" alt="" coords="587,161,691,188"/>
+<area shape="rect" href="$_s_h_a_8h.html" title="SHA.h" alt="" coords="2357,161,2421,188"/>
+<area shape="rect" href="$_dist_round_robin_8h.html" title="DistRoundRobin.h" alt="" coords="1539,239,1688,265"/>
+<area shape="rect" href="$_dist_c_r_u_s_h_8h.html" title="DistCRUSH.h" alt="" coords="1545,84,1657,111"/>
+<area shape="rect" href="$_dist_r_u_s_hp_8h.html" title="DistRUSHp.h" alt="" coords="1157,239,1267,265"/>
+<area shape="rect" href="$_disk_8h.html" title="Disk.h" alt="" coords="1481,393,1545,420"/>
+<area shape="rect" href="$helper_8h.html" title="helper.h" alt="" coords="839,471,919,497"/>
+<area shape="rect" href="$_improved_map_8h.html" title="ImprovedMap.h" alt="" coords="1285,316,1419,343"/>
+<area shape="rect" href="$_r_s_disk_8h.html" title="RSDisk.h" alt="" coords="144,316,227,343"/>
+<area shape="rect" href="$_r_s_cache_8h.html" title="RSCache.h" alt="" coords="520,316,619,343"/>
+<area shape="rect" href="$crushwrapper_8h.html" title="crushwrapper.h" alt="" coords="1413,161,1544,188"/>
+<area shape="rect" href="$crush_8h.html" title="crush.h" alt="" coords="2136,316,2208,343"/>
+<area shape="rect" href="$hash_8h.html" title="hash.h" alt="" coords="1813,239,1883,265"/>
+<area shape="rect" href="$mapper_8h.html" title="mapper.h" alt="" coords="1957,239,2048,265"/>
+<area shape="rect" href="$_builder_8h.html" title="Builder.h" alt="" coords="2123,239,2208,265"/>
+</map>

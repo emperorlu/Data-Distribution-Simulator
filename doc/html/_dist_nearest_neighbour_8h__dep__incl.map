@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" href="$_dist_share_8h.html" title="DistShare.h" alt="" coords="289,84,393,111"/>
+<area shape="rect" href="$_distributor_8cpp.html" title="Distributor.cpp" alt="" coords="259,239,384,265"/>
+<area shape="rect" href="$_dist_nearest_neighbour_8cpp.html" title="DistNearestNeighbour.cpp" alt="" coords="524,84,735,111"/>
+<area shape="rect" href="$_dist_fast_redundant_share_8h.html" title="DistFastRedundantShare.h" alt="" coords="41,161,255,188"/>
+<area shape="rect" href="$_dist_share_8cpp.html" title="DistShare.cpp" alt="" coords="329,161,449,188"/>
+<area shape="rect" href="$_dist_fast_redundant_share_8cpp.html" title="DistFastRedundantShare.cpp" alt="" coords="5,239,235,265"/>
+</map>

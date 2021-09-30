@@ -1,0 +1,8 @@
+117    12.570112
+dtype: float64
+117    150.165829
+dtype: float64
+117    191
+dtype: int64
+117    0.271927
+dtype: float64

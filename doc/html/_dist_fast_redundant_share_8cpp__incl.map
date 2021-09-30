@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" href="$_dist_fast_redundant_share_8h.html" title="DistFastRedundantShare.h" alt="" coords="1003,84,1216,111"/>
+<area shape="rect" href="$helper_8h.html" title="helper.h" alt="" coords="127,471,207,497"/>
+<area shape="rect" href="$_dist_redundant_share_8h.html" title="DistRedundantShare.h" alt="" coords="1051,239,1235,265"/>
+<area shape="rect" href="$_dist_share_8h.html" title="DistShare.h" alt="" coords="660,161,764,188"/>
+<area shape="rect" href="$_r_s_disk_8h.html" title="RSDisk.h" alt="" coords="1000,316,1083,343"/>
+<area shape="rect" href="$_distributor_8h.html" title="Distributor.h" alt="" coords="379,316,488,343"/>
+<area shape="rect" href="$_r_s_cache_8h.html" title="RSCache.h" alt="" coords="1208,316,1307,343"/>
+<area shape="rect" href="$_disk_8h.html" title="Disk.h" alt="" coords="541,393,605,420"/>
+<area shape="rect" href="$_dist_nearest_neighbour_8h.html" title="DistNearestNeighbour.h" alt="" coords="683,239,875,265"/>
+<area shape="rect" href="$_improved_map_8h.html" title="ImprovedMap.h" alt="" coords="512,316,645,343"/>
+</map>

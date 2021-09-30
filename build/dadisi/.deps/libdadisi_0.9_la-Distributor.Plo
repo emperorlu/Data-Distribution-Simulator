@@ -1,0 +1,58 @@
+dadisi/libdadisi_0.9_la-Distributor.lo: ../dadisi/Distributor.cpp \
+ ../dadisi/Distributor.h ../dadisi/Disk.h ../dadisi/helper.h \
+ ../dadisi/DistNearestNeighbour.h ../dadisi/ImprovedMap.h \
+ ../dadisi/DistRedundantShare.h ../dadisi/RSDisk.h ../dadisi/RSCache.h \
+ ../dadisi/DistFastRedundantShare.h ../dadisi/DistShare.h ../dadisi/SHA.h \
+ ../dadisi/DistRoundRobin.h ../dadisi/DistCRUSH.h \
+ ../dadisi/crushwrapper.h ../dadisi/crush.h ../dadisi/hash.h \
+ ../dadisi/mapper.h ../dadisi/Builder.h ../dadisi/DistRUSHp.h \
+ ../dadisi/DistRUSHr.h ../dadisi/DistRUSHt.h ../dadisi/DistRandSlice.h \
+ ../dadisi/flat_segment_tree.hpp ../dadisi/flat_segment_tree_node.hpp
+
+../dadisi/Distributor.h:
+
+../dadisi/Disk.h:
+
+../dadisi/helper.h:
+
+../dadisi/DistNearestNeighbour.h:
+
+../dadisi/ImprovedMap.h:
+
+../dadisi/DistRedundantShare.h:
+
+../dadisi/RSDisk.h:
+
+../dadisi/RSCache.h:
+
+../dadisi/DistFastRedundantShare.h:
+
+../dadisi/DistShare.h:
+
+../dadisi/SHA.h:
+
+../dadisi/DistRoundRobin.h:
+
+../dadisi/DistCRUSH.h:
+
+../dadisi/crushwrapper.h:
+
+../dadisi/crush.h:
+
+../dadisi/hash.h:
+
+../dadisi/mapper.h:
+
+../dadisi/Builder.h:
+
+../dadisi/DistRUSHp.h:
+
+../dadisi/DistRUSHr.h:
+
+../dadisi/DistRUSHt.h:
+
+../dadisi/DistRandSlice.h:
+
+../dadisi/flat_segment_tree.hpp:
+
+../dadisi/flat_segment_tree_node.hpp:

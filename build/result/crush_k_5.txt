@@ -1,0 +1,8 @@
+2586    50.373295
+dtype: float64
+2586    2499.567839
+dtype: float64
+2586    2613
+dtype: int64
+2586    0.045381
+dtype: float64

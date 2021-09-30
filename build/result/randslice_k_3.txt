@@ -1,0 +1,8 @@
+1537    36.066866
+dtype: float64
+1537    1499.81407
+dtype: float64
+1537    1584
+dtype: int64
+1537    0.056131
+dtype: float64

@@ -1,0 +1,8 @@
+1280    266.746851
+dtype: float64
+1280    1501.105528
+dtype: float64
+1280    2318
+dtype: int64
+1280    0.544195
+dtype: float64
